@@ -1,0 +1,1 @@
+hi. it's my first app with The Odin Project. lets get started
